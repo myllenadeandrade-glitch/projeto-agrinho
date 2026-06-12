@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agrinho - Reciclagem de Latas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>🌱 Projeto Agrinho</h1>
+        <h2>Reciclagem de Latas</h2>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h2>Por que reciclar latas?</h2>
+            <p>
+                As latas de alumínio podem ser recicladas infinitas vezes,
+                economizando energia e reduzindo a poluição ambiental.
+            </p>
+            <button id="btnMensagem">Clique para aprender mais</button>
+        </section>
+
+        <section class="info">
+            <h2>Benefícios da Reciclagem</h2>
+
+            <div class="card">
+                <h3>♻️ Menos Lixo</h3>
+                <p>Reduz a quantidade de resíduos nos aterros sanitários.</p>
+            </div>
+
+            <div class="card">
+                <h3>🌎 Proteção da Natureza</h3>
+                <p>Diminui a extração de recursos naturais.</p>
+            </div>
+
+            <div class="card">
+                <h3>⚡ Economia de Energia</h3>
+                <p>Reciclar alumínio consome muito menos energia do que produzir um novo.</p>
+            </div>
+        </section>
+
+        <section class="curiosidade">
+            <h2>Curiosidade</h2>
+            <p>
+                Uma lata reciclada pode voltar às prateleiras como uma nova lata
+                em aproximadamente 60 dias!
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Projeto Agrinho 2025 - Educação Ambiental 🌱</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
