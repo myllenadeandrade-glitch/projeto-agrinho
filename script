@@ -1,0 +1,7 @@
+const botao = document.getElementById("btnMensagem");
+
+botao.addEventListener("click", () => {
+    alert(
+        "Reciclar uma única lata de alumínio economiza energia suficiente para manter uma televisão ligada por várias horas! ♻️🌱"
+    );
+});
